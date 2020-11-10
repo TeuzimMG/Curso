@@ -17,16 +17,16 @@ Estes são exemplos de **operadores lógicos** usados em várias linguagens de p
 No VisuAlg podemos usar as mesmas regras ditas em cima deste titulo, todos estes operadores podem ser usados, por exemplo o de soma e entre outros.
 Na programação podemos não só somar números como caracteres também, isso vai ficar mais claro quando mostrar o exemplo.
 
-1. Exemplo 1
+- Exemplo 1
 
-```
-Algoritmo "operadores logicos"
-Var
-   bola: caracter
-Inicio
-      bola <- "Brinquedo"
-      Escreva("A bola é um "+ bola)
-Fimalgoritmo
-```
+   ```
+   Algoritmo "operadores logicos"
+   Var
+      bola: caracter
+   Inicio
+         bola <- "Brinquedo"
+         Escreva("A bola é um "+ bola)
+   Fimalgoritmo
+   ```
 
 
