@@ -63,7 +63,7 @@ fimalgoritmo
 
 Usamos o ( **<-** ) para dizer que a variavel antes dela receberá o valor depois dele, exemplo: `agua <- "H2O"`.
 
-> Conluimos aqui uma introdução leve as váriaveis e suas propriedades
+> ***Conluimos aqui uma introdução leve as váriaveis e suas propriedades***
 
 
 
