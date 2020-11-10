@@ -22,11 +22,27 @@ Na programação podemos não só somar números como caracteres também, isso v
    ```
    Algoritmo "operadores logicos"
    Var
-      bola: caracter
+      n1: Inteiro
+      n2: Inteiro
    Inicio
-         bola <- "Brinquedo"
-         Escreva("A bola é um "+ bola)
+         n1 <- 10
+         n2 <- 20
+         Escreva(n1 + n2)
    Fimalgoritmo
    ```
+   Aqui neste exemplo temos o uso de um operador aritimetico, no caso o `+`, ele foi usado para somar o valor de `n1` e `n2`, poderiamos ter invês de deixar `Escreva(n1 + n2)` colocar outra váriavel que tenha seu valor como a soma de `n1` e `n2`.
+   
+- Exemplo 2
 
-
+   ```
+   Algoritmo "operadores logicos"
+   Var
+      bola: caracter
+      adjetivo: caracter
+   Inicio
+         bola <- "Brinquedo"
+         adjetivo <- "Hórrivel"
+         Escreva(bola + adjetivo)
+   Fimalgoritmo
+   ```
+   Este caso é mais interessante, pelo o fato do tipo primitivo ser caracteres, aqui a gente tem algo que se chama concatenação, teremos o valor da variavel `bola` + `adjetivo` sem se preocupar se é Inteiro ou não.
