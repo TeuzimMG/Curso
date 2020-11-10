@@ -29,3 +29,8 @@ Estes exemplos são só para ilustrar na sua cabeça oque queremos que saiba, ma
 - **Não se pode usar símbolos, exceto: _**
 - **Nenhuma letra pode conter acentuações**
 - **Não pode ser uma palavra _reservada_**(Palavras reservadas são comandos e etc)
+
+Agora que sabemos disso podemos ir para o caso dos tipos primitivos, precisamos indicar para o programa qual é o tipo de dados que será guardado na várivel, só assim poderemos colocar um valor em cima de uma váriavel. Nós temos vários tipos de dados sendo eles:
+
+- **Inteiro**
+- **Caracter**
