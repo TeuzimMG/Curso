@@ -4,8 +4,8 @@ Estes são exemplos de **operadores lógicos** usados em várias linguagens de p
 
 | Simbolo | Função | Exemplo | Ordem de presedencia |
 | :---: | --- | --- | :---: |
-| **+** | **Soma** valores | `n1 + n2` | 4° |
-| **-** | **Subtrai** valores | `n1 - n2` | 4° |
+| `+` | **Soma** valores | `n1 + n2` | 4° |
+| `-` | **Subtrai** valores | `n1 - n2` | 4° |
 | `*` | **Multiplica** valores | `n1 * n2` | 3° |
 | `/` | **Divide** valores | `n1 / n2` | 3° |
 | `\` | **Divide inteiramente** valores | `n1 \ n2` | 4° |
