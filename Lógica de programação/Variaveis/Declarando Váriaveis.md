@@ -34,3 +34,5 @@ Agora que sabemos disso podemos ir para o caso dos tipos primitivos, precisamos 
 
 - **Inteiro**
 - **Caracter**
+- **Real**
+- **Lógico**
