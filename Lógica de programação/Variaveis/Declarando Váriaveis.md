@@ -36,3 +36,25 @@ Agora que sabemos disso podemos ir para o caso dos tipos primitivos, precisamos 
 - **Caracter**
 - **Real**
 - **Lógico**
+
+Colocando no VisuAlg ficará assim:
+
+```
+algoritmo "primeiro algoritmo"
+var
+<identificador>: <tipo>         <-- A variavel <identificador> foi recebida com o <tipo> sendo ela inteiro e etc..
+inicio
+  <identificador> <- <valor>    <-- A variavel <identificador> agora tem o valor <valro>
+  Escreva("Primeiro algoritmo")
+fimalgoritmo
+```
+
+
+
+
+
+
+
+
+
+
