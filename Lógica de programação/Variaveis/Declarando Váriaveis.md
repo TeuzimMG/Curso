@@ -23,4 +23,9 @@ texto = "Olá mundo"
 
 Estes exemplos são só para ilustrar na sua cabeça oque queremos que saiba, mas agora podemos ver regras para definir um **identificador**, que são no caso:
 
-- Teste
+- **Não pode conter espaços em brancos**
+- **Tem que começar com uma letra**
+- **Depois da primeira letra o resto pode ser números ou letras**
+- **Não se pode usar símbolos, exceto: _**
+- **Nenhuma letra pode conter acentuações**
+- **Não pode ser uma palavra _reservada_**(Palavras reservadas são comandos e etc)
