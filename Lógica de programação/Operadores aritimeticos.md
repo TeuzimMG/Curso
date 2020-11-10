@@ -18,7 +18,6 @@ No VisuAlg podemos usar as mesmas regras ditas em cima deste titulo, todos estes
 Na programação podemos não só somar números como caracteres também, isso vai ficar mais claro quando mostrar o exemplo.
 
 - Exemplo 1
-
    ```
    Algoritmo "operadores logicos"
    Var
@@ -31,7 +30,6 @@ Na programação podemos não só somar números como caracteres também, isso v
    Fimalgoritmo
    ```
    Aqui neste exemplo temos o uso de um operador aritimetico, no caso o `+`, ele foi usado para somar o valor de `n1` e `n2`, poderiamos ter invês de deixar `Escreva(n1 + n2)`      colocar outra váriavel que tenha seu valor como a soma de `n1` e `n2`.
-   
    ```
    Algoritmo "operadores logicos"
    Var
@@ -45,7 +43,8 @@ Na programação podemos não só somar números como caracteres também, isso v
    ```
    Este caso é mais interessante, pelo o fato do tipo primitivo ser caracteres, aqui a gente tem algo que se chama concatenação, teremos o valor da variavel `bola` + `adjetivo`    sem se preocupar se é Inteiro ou não. O resultado disso é `BrinquedoHórrivel` pois somando os valores das váriaveis sendo eles númericos ou não sem se importar com seu tipo      primitivo. A concatenação será vista mais em-breve e teremos uma página só para explica-lá
    
- - Exemplo 3
+   
+ - Exemplo 2
    ```
    Algoritmo "operadores logicos"
    Var
@@ -57,4 +56,20 @@ Na programação podemos não só somar números como caracteres também, isso v
          Escreva(n1 * n2)
    Fimalgoritmo
    ```
-   Aqui a gente estará escrevendo na tela a multiplicação entre `n1` e `n2`,
+   Aqui a gente estará escrevendo na tela a multiplicação entre `n1` e `n2`, que no caso é `10` * `20` que dá `200` ou melhor `10 * 20 = n1 * n2 = 200`.
+   
+   ```
+   Algoritmo "operadores logicos"
+   Var
+      bola: caracter
+      n2: Inteiro
+   Inicio
+         bola <- "Brinquedo"
+         n2 <- 5
+         Escreva(bola * n2)
+   Fimalgoritmo
+   ```
+   Isso na cabeça de algumas pessoa iria escrever Brinquedo 5 vezes na tela, mas não é assim que funciona, o VisuAlg não suporta esse tipo de operação mas em algumas linguagens    teriamos este resultado. 
+   
+   
+   
