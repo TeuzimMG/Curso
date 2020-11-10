@@ -11,4 +11,4 @@ Estes são exemplos de **operadores lógicos** usados em várias linguagens de p
 | `\` | **Divide inteiramente** valores | `n1 \ n2` | 4° |
 | `^` | **Exponencia** valores | `n1 ^ n2` | 2° |
 | `%` | **Módulo** | `n1 % n2` | 2° |
-| `()` | **Mesma função mátematica** | 1° |
+| `()` | **Mesma função mátematica** | (n1 + n2) * n3 | 1° |
