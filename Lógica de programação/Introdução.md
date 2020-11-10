@@ -37,4 +37,4 @@ fimalgoritmo
 ```
 
 ## Observações
-Nesse nosso programa simples temos que destacar a importância das aspas duplas, que é usada para indicar que entre elas teremos cáracteres não númericos e para dizer que oque está sendo dito não é um *identificador de várivel* no caso uma.
+Nesse nosso programa simples temos que destacar a importância das aspas duplas, que é usada para indicar que entre elas teremos cáracteres não númericos e para dizer que oque está sendo dito não é um *identificador de várivel* no caso uma variavel.
