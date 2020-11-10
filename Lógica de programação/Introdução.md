@@ -3,6 +3,7 @@ Nós iremos aprender de inicio algoritimo, e logo depois iremos aprender Python3
 # Inicio
 Para inicio de tudo temos que saber como se cria um código, qual o seu inicio e seu fim, no VisuAlg nós representamos o inicio de cada algoritimo utilizando `algoritmo` e logo depois o nome do seu algoritmo entre aspas duplas,
 exemplo: `algoritmo "primeiro algoritmo"` e para indicar o final usaremos apenas o `fimalgoritmo`
+
 O nosso primeiro código se iniciaria dessa forma:
 
 ```
