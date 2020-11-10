@@ -30,10 +30,8 @@ Na programação podemos não só somar números como caracteres também, isso v
          Escreva(n1 + n2)
    Fimalgoritmo
    ```
-   Aqui neste exemplo temos o uso de um operador aritimetico, no caso o `+`, ele foi usado para somar o valor de `n1` e `n2`, poderiamos ter invês de deixar `Escreva(n1 + n2)` colocar outra váriavel que tenha seu valor como a soma de `n1` e `n2`.
+   Aqui neste exemplo temos o uso de um operador aritimetico, no caso o `+`, ele foi usado para somar o valor de `n1` e `n2`, poderiamos ter invês de deixar `Escreva(n1 + n2)`      colocar outra váriavel que tenha seu valor como a soma de `n1` e `n2`.
    
-- Exemplo 2
-
    ```
    Algoritmo "operadores logicos"
    Var
@@ -45,18 +43,18 @@ Na programação podemos não só somar números como caracteres também, isso v
          Escreva(bola + adjetivo)
    Fimalgoritmo
    ```
-   Este caso é mais interessante, pelo o fato do tipo primitivo ser caracteres, aqui a gente tem algo que se chama concatenação, teremos o valor da variavel `bola` + `adjetivo` sem se preocupar se é Inteiro ou não. O resultado disso é `BrinquedoHórrivel` pois somando os valores das váriaveis sendo eles númericos ou não sem se importar com seu tipo primitivo. A concatenação será vista mais em-breve e teremos uma página só para explica-lá
+   Este caso é mais interessante, pelo o fato do tipo primitivo ser caracteres, aqui a gente tem algo que se chama concatenação, teremos o valor da variavel `bola` + `adjetivo`    sem se preocupar se é Inteiro ou não. O resultado disso é `BrinquedoHórrivel` pois somando os valores das váriaveis sendo eles númericos ou não sem se importar com seu tipo      primitivo. A concatenação será vista mais em-breve e teremos uma página só para explica-lá
    
- - Exemplo 2
-
+ - Exemplo 3
    ```
    Algoritmo "operadores logicos"
    Var
-      bola: caracter
-      adjetivo: caracter
+      n1: Inteiro
+      n2: Inteiro
    Inicio
-         bola <- "Brinquedo"
-         adjetivo <- "Hórrivel"
-         Escreva(bola + adjetivo)
+         n1 <- 10
+         n2 <- 20
+         Escreva(n1 * n2)
    Fimalgoritmo
    ```
+   Aqui a gente estará escrevendo na tela a multiplicação entre `n1` e `n2`,
