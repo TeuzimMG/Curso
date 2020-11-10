@@ -25,6 +25,7 @@ fimalgoritmo
 
 Agora para teste iremos aprender um comando de sáida, ele irá printar algo na tela, tal comando se denomina `Escreva`, usaremos ele da seguinte forma: `Escreva("<texto>")`(Obs: <texto> = qualquer coisa que seja caracter) e colocaremos ele entre o `inicio` e o `fimalgoritmo` pois como dito antes essa é uma área feita para comandos, e não só isso mas precisaremos colocar um TAB na frente.
 O TAB indica que o comando está entre o `inicio` e o `fimalgoritmo`.
+  
 O nosso código ficará assim por exemplo:
   
 ```
