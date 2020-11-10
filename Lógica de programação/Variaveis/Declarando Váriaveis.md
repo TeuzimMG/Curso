@@ -63,6 +63,10 @@ fimalgoritmo
 
 Usamos o ( **<-** ) para dizer que a variavel antes dela receberá o valor depois dele, exemplo: `agua <- "H2O"`.
 
+## Declarando mais que uma váriavel em uma linha
+Sim isso é póssivel, e posso mostrar agora para vocês uma forma fácil e ecônomica de se declarar váriaveis.
+Para fazer isso é apenas usarmos uma virgular entre uma váriavel e outra, desse jeito: `<variavel1>, <variavel2>: <tipo>` sendo tipo inteiro, caracter e etc..
+
 > ***Conluimos aqui uma introdução leve as váriaveis e suas propriedades***
 
 
