@@ -37,18 +37,29 @@ Agora que sabemos disso podemos ir para o caso dos tipos primitivos, precisamos 
 - **Real**
 - **Lógico**
 
-Colocando no VisuAlg ficará assim:
+Colocando no VisuAlg terá que ficar assim:
 
 ```
 algoritmo "primeiro algoritmo"
 var
-<identificador>: <tipo>         <-- A variavel <identificador> foi recebida com o <tipo> sendo ela inteiro e etc..
+<identificador>: <tipo>         <-- A variavel <identificador> foi recebida com o <tipo> podendo ser ela inteiro e etc..
 inicio
   <identificador> <- <valor>    <-- A variavel <identificador> agora tem o valor <valro>
-  Escreva("Primeiro algoritmo")
+  Escreva(<identificador>)      <-- O valor da variavel <identificador> vai ser escrita na tela
 fimalgoritmo
 ```
 
+Exemplo:
+
+```
+algoritmo "primeiro algoritmo"
+var
+  bola: caractere        <-- A variavel bola foi recebida com o tipo caracter 
+inicio
+  bola <- "Brinquedo"    <-- A variavel bola agora tem o valor "Brinquedo"
+  Escreva(bola)          <-- O valor da variavel bola vai ser escrita na tela("Brinquedo")
+fimalgoritmo
+```
 
 
 
