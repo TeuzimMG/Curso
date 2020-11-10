@@ -45,4 +45,18 @@ Na programação podemos não só somar números como caracteres também, isso v
          Escreva(bola + adjetivo)
    Fimalgoritmo
    ```
-   Este caso é mais interessante, pelo o fato do tipo primitivo ser caracteres, aqui a gente tem algo que se chama concatenação, teremos o valor da variavel `bola` + `adjetivo` sem se preocupar se é Inteiro ou não.
+   Este caso é mais interessante, pelo o fato do tipo primitivo ser caracteres, aqui a gente tem algo que se chama concatenação, teremos o valor da variavel `bola` + `adjetivo` sem se preocupar se é Inteiro ou não. O resultado disso é `BrinquedoHórrivel` pois somando os valores das váriaveis sendo eles númericos ou não sem se importar com seu tipo primitivo. A concatenação será vista mais em-breve e teremos uma página só para explica-lá
+   
+ - Exemplo 2
+
+   ```
+   Algoritmo "operadores logicos"
+   Var
+      bola: caracter
+      adjetivo: caracter
+   Inicio
+         bola <- "Brinquedo"
+         adjetivo <- "Hórrivel"
+         Escreva(bola + adjetivo)
+   Fimalgoritmo
+   ```
