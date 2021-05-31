@@ -1,6 +1,8 @@
 # Operador Condicional (SE) e (SENÃO) e (SENÃO SE)
 
-Aqui veremos como dizer a um algoritmo quando um conjunto de instruções deve ser executado. Esta determinação é estabelecida se uma condição for verdadeira. Mas o que seria esta condição? Ao executar um teste lógico teremos como resultado um valorverdadeiro ou falso. A condição descrita anteriormente nada mais é que um teste lógico
+# Operador(Desvio) Condicional SE
+
+Aqui veremos como dizer a um algoritmo quando um conjunto de instruções deve ser executado. Esta determinação é estabelecida se uma condição for verdadeira. Mas o que seria esta condição? Ao executar um teste lógico teremos como resultado um valor verdadeiro ou falso.
 
 Se este teste lógico resultar verdadeiro, as instruções definidas dentro do desvio condicional serão executadas. Se o teste for falso, o algoritmo pulará o trecho e continuará sua execução a partir do ponto onde o desvio condicional foi finalizado
 
@@ -13,6 +15,7 @@ logico condicao = verdadeiro
 se(condicao)
 {
 // instruções que serão executadas caso desvio seja verdadeiro, no caso o que tiver dentro dos parenteses for verdadeiro
+// exemplo: condicao é verdadeiro por isso tudo que está dentro das chaves será executado.
 }
 
 inteiro x = 5
